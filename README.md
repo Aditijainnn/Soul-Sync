@@ -1,5 +1,5 @@
 # Soul Sync 
-### Built with 💙 by Team HITR
+### Built with 💙 by Team HITR!
 
 ---
 
