@@ -1,4 +1,4 @@
-# Soul Sync 
+# Soul Sync !
 ### Built with 💙 by Team HITR!
 
 ---
